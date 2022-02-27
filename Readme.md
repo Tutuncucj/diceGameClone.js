@@ -1,1 +1,1 @@
-<img src="dice.pngg">
+<img src="dice.png">
