@@ -1,2 +1,2 @@
- https://tutuncucj.github.io/diceGame.js/
+https://tutuncucj.github.io/diceGameClone.js/
 <img src="dice.png">
